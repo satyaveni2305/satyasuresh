@@ -24,7 +24,7 @@ Output. very short short medium large v.large
  Total number of rules:  4*3*2*3 = 72.
 
 Here is the MATLAB code:
-File: washing_machine.fis
+# File: washing_machine.fis
 [System]
 Name='washing_machine'
 Type='mamdani'
